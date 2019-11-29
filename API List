@@ -1,0 +1,8 @@
+POST: http://localhost:8081/api/car
+Select Body as form-data
+KEY :      
+files   (Upload as File) : attach File
+files   (Upload as File) : attach File 
+
+
+GET: 
